@@ -1,4 +1,4 @@
-# You need to download your twitter archive and change the tweet.js file to cvs file
+# You need to download your twitter archive and change the tweet.js file to csv file
 # You should enter your consumer key/secret and access key/secret
 # And off course youu need to enter your files destination on the code
 
